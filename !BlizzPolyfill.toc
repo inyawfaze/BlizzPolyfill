@@ -1,7 +1,7 @@
 ## Interface: 11504 
 ## Title: !BlizzPolyfill
 ## Notes: Adds some functions present in retail UI code, as well as adding compatibility functions 
-## Version: 1.1.0
+## Version: 1.1.1
 ## Author: Nazui
 
 !BlizzPolyfill.xml
